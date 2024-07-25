@@ -1,6 +1,6 @@
 {
-  "name": "@luxfi/wc-browser-utils",
-  "version": "1.8.10",
+  "name": "@luxwallet/wc-browser-utils",
+  "version": "1.8.11",
   "description": "Browser Utilities for WalletConnect",
   "publishConfig": {
     "access": "public"
