@@ -1,5 +1,5 @@
 /// <reference types="node" />
-import { IClientMeta } from "@luxfi/wc-types";
+import { IClientMeta } from "@luxwallet/wc-types";
 import * as windowGetters from "@walletconnect/window-getters";
 import { BrowserInfo, BotInfo, NodeInfo, SearchBotDeviceInfo, ReactNativeInfo } from "detect-browser";
 export declare function detectEnv(userAgent?: string): BrowserInfo | BotInfo | NodeInfo | SearchBotDeviceInfo | ReactNativeInfo | null;
